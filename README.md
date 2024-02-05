@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate Frontend webdevelopment backend webdevelopment ...
 - 📫 How to reach me harishhari1196@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
 
 <!---
 HarishM96/HarishM96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
