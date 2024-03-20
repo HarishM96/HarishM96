@@ -1,7 +1,7 @@
 - 👋 Hello guys , I’m Harish M
-- 👀 I’m  a Aspiring Full Stack Web Development Eager to learn and contribute.
-- 🌱 Full stack web development
-- 💞️ I’m looking to collaborate Frontend webdevelopment backend webdevelopment ...
+- 👀 I’m  a Aspiring Full Stack Web Developer Eager to learn and contribute.
+- 🌱 MERN stack web development
+- 💞️ I’m looking to collaborate in Frontend and backend webdevelopment ...
 - 📫 How to reach me harishhari1196@gmail.com
 - 😄 Pronouns: He/Him
 
