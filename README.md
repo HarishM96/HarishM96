@@ -1,4 +1,4 @@
-- 👋 Hello guys , I’m Harish M
+- 👋 Hello Buddy , I’m Harish M
 - 👀 I’m  a Aspiring Full Stack Web Developer Eager to learn and contribute.
 - 🌱 MERN stack web development
 - 💞️ I’m looking to collaborate in Frontend and backend webdevelopment ...
